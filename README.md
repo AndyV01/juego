@@ -8,4 +8,4 @@ Juego de  preguntas con múltiples opciones en JavaScript
 -luego dando click en ctrl + shift + p  elegimos la opcion LiveServer para iniciar el juego automaticamente en el navegaror:
 <br>
 <br>
-<img src="./juego/images/juego.jpg" style= "height: 300px">
+<img src="./images/juego.jpg" style= "height: 300px">
